@@ -1,6 +1,6 @@
 # Title
 
-by Authors David and Freya
+by Authors David and Freya and friends
 
 ## Overview
 
