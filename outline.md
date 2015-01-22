@@ -1,6 +1,6 @@
 # Title
 
-by Authors me, him and her
+by Authors David, Joe and Freya
 
 ## Overview
 
